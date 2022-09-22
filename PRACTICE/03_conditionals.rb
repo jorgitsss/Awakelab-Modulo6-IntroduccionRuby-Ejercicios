@@ -9,7 +9,7 @@ print "Eres un estudiante escribe 'true' o 'false': "
 
 persona = gets.chomp.downcase
 
-if !persona.nil == 'true'
+if !persona.nil? == 'true'
   puts 'Bienvenido al salon'
 else
   puts 'No puedes ingresar al salon'
