@@ -1,19 +1,43 @@
-# Ruby on Replit
+# Ruby on Replit 
+## Ejercicios Ruby 
+### Aprendizaje Esperado 01
+* adivinaAdivinador.rb 
+* condicional.rb
+* main.rb
 
-This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding!
+### Aprendizaje Esperado 02
+* for.rb
+* loop.rb
+* range.rb
+* times.rb
+* while.rb
 
-## Running the repl
+### Aprendizaje Esperado 03
+* contadorDeLikes.rb 
+* ejercicioGrupal.rb
+* methods.rb
 
-Simply hit run! You can edit the run command from the `.replit` file.
+### Aprendizaje Esperado 04
+* array_addAndDelete.rb
+* array_each.rb
+* array_for.rb
+* array_methods.rb
+* array_otherMethods.rb
+* array_while.rb
+* range.rb
 
-## Installing packages
+### Aprendizaje Esperado 05
+* hash_group.rb
+* hash_interaction.rb
+* hash.rb
 
-To add packages to your repl, we recommend using the Replit packager interface in the left sidebar or using `bundle install` in the shell. Check out the [Bundle docs here](https://bundler.io/v2.3/#getting-started).
+### Aprendizaje Esperado 06
+* api_exercise.rb
+* api_request.rb
+* api_response.rb
 
-**Warning: Avoid using `gem install` to add packages.**
-
-Beacuse Ruby repls use [Bundle](https://bundler.io/) under the hood to provide a consistent environment that tracks and installs the exact gems and versions needed, we recommend using `bundle install` instead of `gem install`, which may not work as expected.
-
-## Help
-
-If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
+### Aprendizaje Esperado 07
+* /radio   /ejercicio imita el dial de una radio en ruby
+* 01_class.rb
+* 02_class_instancia.rb
+* 03_constructor.rb

@@ -4,7 +4,7 @@
 numeroAleatorio = rand(1...3)
 
 # 2. Mensaje de bienvenida
-print "Adivina el numero que pienso: "
+print "Adivina el numero que pienso (entre 1 y 3): "
 numero = gets.chomp.to_i
 
 # 3. Operacion de adivinar el numero
